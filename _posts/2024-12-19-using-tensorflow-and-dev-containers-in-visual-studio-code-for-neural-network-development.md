@@ -25,10 +25,7 @@ Stay tuned as I'll share more details about my projects, lessons learned, and so
 
 ## Steps for Installation
 
-- Use the Template
-  
-![template](/assets/img/2024-12-19/use_github_template.png){: .right } Go to the repository's page and click on Use this template to create your own repository based on it. 
-
+- ![template](/assets/img/2024-12-19/use_github_template.png){: .right } Go to [https://github.com/juanmcristobal/tensorflow-gpu-devcontainer](https://github.com/juanmcristobal/tensorflow-gpu-devcontainer) and click on Use this template to create your own repository based on it. 
 
 
 - Clone the Repository
